@@ -6,7 +6,9 @@ This README explains how to get started with this repository.
 
 - Fork this repository.
 
-- In your fork, in the `submissions` directory, create a new directory whose name is `YOUR GITHUB USERNAME`.
+- In your fork, in the `submissions` directory, create a new folder whose name is `YOUR FULL NAME`.
+
+- In the folder named after you, create another folder named the topic for which you want to make a submission Example: `versioncontent`
 
 - In this directory, create a new file with the solution of each task. Example: `versioncontrol.txt`
 
