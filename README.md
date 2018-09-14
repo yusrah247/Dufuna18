@@ -16,6 +16,15 @@ This README explains how to get started with this repository.
 
 - When you are done create a Pull request to have your solution merged to this repository.
 
+# How to make a submission
+If you want to make a submission for a week where the topic was 'sample'
+- Create a new branch
+- Navigate to the folder that has your name in the submissions folder
+- Added necessary files/content for the task
+- Add the new files/content to git and commit your changes
+- Push to your forked repository and subsequently make a Pull request to the main repository
+- Keep checking to ensure your pull request has been merged or have comments so you can address as only merging of your pull request signifies task completion.
+
 # Pull Request
 
 when creating a pull request, you need to inform us of what you have done or changed.for example, if Adewale wants to create a pull request to submit a solution for version control topic.it would go thus:
